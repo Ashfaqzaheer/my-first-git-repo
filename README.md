@@ -1,0 +1,1 @@
+"# My First Git Repository\n\nThis is a practice repository for learning Git basics." 
